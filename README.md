@@ -1,10 +1,15 @@
+# 📌 Projeto Lista Com Numeros Em Python
 
-# Projeto Lista Com Numeros Em Python
+Projeto simples com menu interativo para trabalhar com listas.
 
-Projeto simples com menu interativo para:
-- números pares
-- números ímpares
-- maior e menor valor
-- média de idade
+## 🔧 Funcionalidades
+- Números pares e ímpares
+- Maior e menor valor
+- Média de idade
+- Ordenação crescente e decrescente
 
-Feito para estudo de lógica de programação.
+## 🧠 Tecnologias
+- Python
+
+## 🎯 Objetivo
+Praticar lógica de programação e estruturas básicas em Python.
